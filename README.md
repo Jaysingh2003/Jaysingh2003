@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 <img align="right"   alt="coding gif" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-- 🔭 I’m currently working on **Dewagle technologies**
+- 🔭 I’m currently Looking for **opportunity**
 
 - 🌱 I’m currently learning **Data structures & Algorithms**
 
