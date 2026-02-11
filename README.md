@@ -1,4 +1,4 @@
-![logo](https://github.com/Jaysingh2003/Jaysingh2003/blob/main/banner.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Jaysingh Patel</h1>
 <h3 align="center">
