@@ -108,7 +108,7 @@ Currently focused on:
   <img src="https://github-readme-stats.vercel.app/api?username=jaysingh2003&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaysingh2003&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=jaysingh2003&theme=radical" />
 </p>
 
 ---
